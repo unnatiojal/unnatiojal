@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unnatiojal
 - 👀 I’m interested in music
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project i'm suitable
 - 📫 How to reach me ...
 
 <!---
